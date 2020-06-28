@@ -31,4 +31,3 @@ if phone.match(/([0-9] *?){10}/) then
     return false
   end
 end
-end
